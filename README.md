@@ -18,7 +18,8 @@ Also, determine the optimal value of lambda for ridge and lasso regression.
 ## Assignment Part-II
 
 >The following questions are the second part of the graded assignment. Please submit the answers in one PDF file. For writing normal text, please use MS Word (or similar software that can convert documents to PDF). For equations and figures, you can write/draw them on a blank sheet of paper using a pen, click images and upload them in the same Word document.
->Question 1
+
+Question 1
 
 What is the optimal value of alpha for ridge and lasso regression? What will be the changes in the model if you choose double the value of alpha for both ridge and lasso? What will be the most important predictor variables after the change is implemented?
 
